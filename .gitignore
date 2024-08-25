@@ -1,0 +1,8 @@
+# ignore datasets (as well as .yaml file for flexible absolute path config)
+data/
+
+# ignore MacOS-specific files
+.DS_Store
+
+# ignore the result logs
+runs/
